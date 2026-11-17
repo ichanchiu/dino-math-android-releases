@@ -1,0 +1,18 @@
+DINO AI 數學 App 安裝說明（2026-11-17）
+
+檔案
+DINO-AI-Math-Park-1.1.0.apk：數學遊樂園
+DINO-AI-New-Curriculum-Maths-1.0.0.apk：新課綱數學
+
+兩個可同時安裝，適用 Android 8.0 以上。下載 APK 後傳到 Android 手機或平板，開啟檔案，依系統提示允許該檔案來源安裝。
+
+兩個 App 都是連線版，需要網路及有課程存取資格的會員帳號。App 與 Chrome 的登入狀態分開；兩個 App 也各自登入。帳號或課程權限問題請洽原課程管理員。
+
+網站教材及功能更新後，完整關閉 App 再開啟即可載入；原生 App 改版時仍須另安裝新版 APK。
+數學遊樂園若已安裝 1.1.0，可繼續使用，不必先移除。清除 App 資料或移除可能失去尚未同步的紀錄。「待同步」不代表已寫入雲端。
+
+已通過簽章、檔案校驗及 Android 模擬器安裝／匿名入口檢查。實體平板、真人帳號完整操作及人耳發聲尚待實測。這些 APK 未上架 Google Play。
+
+正式網站
+https://mathpark.dinoailearning.com/
+https://newmath.dinoailearning.com/
