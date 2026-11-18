@@ -1,22 +1,24 @@
-DINO AI 學習 App 安裝說明（2026-11-18）
+DINO AI 獨立 App 安裝說明（2026-11-18）
 
-DINO-AI-Math-Park-1.1.0.apk：數學遊樂園
-DINO-AI-New-Curriculum-Maths-1.0.0.apk：新課綱數學
-DINO-AI-Zhuyin-Pinyin-1.0.0.apk：迪諾玩注音拼音，內含注音與拼音入口切換
+DINO-AI-Math-Park-1.1.0.apk：DINO AI 數學遊樂園
+DINO-AI-New-Curriculum-Maths-1.0.0.apk：DINO AI 新課綱數學
+DINO-AI-Zhuyin-1.0.0.apk：迪諾玩注音
+DINO-AI-Pinyin-1.0.0.apk：迪诺玩拼音
 
-三個可同時安裝，適用 Android 8.0 以上。下載後開啟 APK，依 Android 提示允許該檔案來源安裝。原本兩個數學 App 維持相同版本與簽章，已安裝者可繼續使用。
+玩注音為繁體中文＋英文；玩拼音為简体中文＋英文。各自獨立安裝、登入及進入自己的教材，沒有共同選單。
 
-這些是連線版，需要網路及有課程存取資格的會員帳號。App 與 Chrome 的登入狀態分開；三個 App 也各自登入。下載 APK 不會自動取得課程資格，帳號與課程權限問題請洽原課程管理員。
+需 Android 8.0 以上、網路及有課程存取資格的會員帳號。開啟下載的 APK，依系統提示允許該檔案來源安裝。下載本身不會自動取得課程資格。
 
-網站教材及功能更新後，完整關閉 App 再開啟即可載入；原生 App 改版仍須安裝新版 APK。「待同步」不代表已寫入雲端，應保持連線完成同步。清除 App 資料或移除可能失去尚未同步的紀錄。
+數學遊樂園與新課綱數學維持原版本與簽章，已安裝者可繼續使用。原注音拼音合併版已停止提供，兩個獨立版本須分別安裝並登入；可自行移除舊合併版。已確認的雲端紀錄沿用；舊 origin 本機待同步內容與偏好不會自動搬移。
 
-前兩個數學 App 只要求網路權限；注音拼音另於點選錄音練習時詢問麥克風。聲音只在頁面本機處理與回放，不上傳；星星含自評或本機判定，不是正式發音檢定。
+四個 App 各自登入，與 Chrome 分開。網站更新後完整關閉再開啟 App；原生 App 改版需安裝同簽章新版 APK。「待同步」尚未寫入雲端，請保持連線完成同步後再清除資料或移除 App。
 
-正式簽章、SHA-256 及 Android 模擬器安裝／正式匿名入口已檢查。實體平板、真人會員完整操作、實際系統錄音授權及真人收音品質尚待實測。這些 APK 未上架 Google Play。
+玩注音／玩拼音僅於點選錄音練習時詢問麥克風。聲音只在頁面本機處理與回放，不上傳；星星含自評或本機判定，不代表正式能力檢定。
 
-合併 ZIP 的 APK-SHA256SUMS.txt 校驗三個 APK；公開 Release 的 SHA256SUMS.txt 校驗全部公開附件。
+簽章、檔案校驗及模擬器正式匿名入口已檢查。實機、真人會員完整操作與實際系統錄音授權／收音品質尚待驗收。這些 APK 未上架 Google Play。
 
 正式網站
 https://mathpark.dinoailearning.com/
 https://newmath.dinoailearning.com/
-https://zhuyinpinyin.dinoailearning.com/
+https://zhuyin.dinoailearning.com/
+https://pinyin.dinoailearning.com/

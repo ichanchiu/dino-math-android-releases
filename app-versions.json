@@ -1,6 +1,6 @@
 {
   "releaseDate": "2026-11-18",
-  "release": "https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-2026-11-18",
+  "release": "https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-split-2026-11-18",
   "apps": [
     {
       "name": "DINO AI 數學遊樂園",
@@ -16,7 +16,7 @@
       "minimumApi": 26,
       "targetApi": 36,
       "internetRequired": true,
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-2026-11-18/DINO-AI-Math-Park-1.1.0.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Math-Park-1.1.0.apk",
       "permissions": [
         "android.permission.INTERNET"
       ]
@@ -35,35 +35,56 @@
       "minimumApi": 26,
       "targetApi": 36,
       "internetRequired": true,
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-2026-11-18/DINO-AI-New-Curriculum-Maths-1.0.0.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-New-Curriculum-Maths-1.0.0.apk",
       "permissions": [
         "android.permission.INTERNET"
       ]
     },
     {
-      "name": "迪諾玩注音拼音",
-      "filename": "DINO-AI-Zhuyin-Pinyin-1.0.0.apk",
-      "sha256": "a096724b745fa540b1ac4974395a9e27603b144cfad06528a71fa1ab810e5755",
-      "package": "com.dinoailearning.zhuyinpinyin",
+      "name": "迪諾玩注音",
+      "variant": "zhuyin",
+      "filename": "DINO-AI-Zhuyin-1.0.0.apk",
+      "sha256": "a142f562d5e2326030c48a96e08e7c1254a85ba3dc447dd87bf65a663521673c",
+      "package": "com.dinoailearning.zhuyin",
       "versionName": "1.0.0",
       "versionCode": 1,
-      "website": "https://zhuyinpinyin.dinoailearning.com/",
-      "certificateSha256": "e674f7a6688e7fad692256473480046adb653233a2244e68364fba05c51c94ac",
+      "website": "https://zhuyin.dinoailearning.com/",
+      "certificateSha256": "353d452700e54eac70b1557a78e8a9878c8501573d8c88bf2ac1f9a0bf0c4c8b",
       "bytes": 185198,
       "minimumAndroid": "8.0",
       "minimumApi": 26,
       "targetApi": 36,
       "internetRequired": true,
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-2026-11-18/DINO-AI-Zhuyin-Pinyin-1.0.0.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Zhuyin-1.0.0.apk",
       "permissions": [
         "android.permission.INTERNET",
         "android.permission.RECORD_AUDIO"
       ],
       "recordingsUploaded": false,
-      "variantChooser": [
-        "zhuyin",
-        "pinyin"
-      ]
+      "script": "traditional"
+    },
+    {
+      "name": "迪诺玩拼音",
+      "variant": "pinyin",
+      "filename": "DINO-AI-Pinyin-1.0.0.apk",
+      "sha256": "1d280764ea8dadd5b8c44b81a6bfdf065eabb9e982c7e1e80a3f5bf19ef58e67",
+      "package": "com.dinoailearning.pinyin",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "website": "https://pinyin.dinoailearning.com/",
+      "certificateSha256": "d60f014bfb5d72de737e1a3cf4fa5a490c5fdc01b13cba86506d699554b8ce70",
+      "bytes": 172910,
+      "minimumAndroid": "8.0",
+      "minimumApi": 26,
+      "targetApi": 36,
+      "internetRequired": true,
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Pinyin-1.0.0.apk",
+      "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "recordingsUploaded": false,
+      "script": "simplified"
     }
   ],
   "installTogether": true,
@@ -75,6 +96,6 @@
     "physicalDevice": "not performed",
     "realMemberGameplayOnAndroid": "not performed",
     "humanAudioListening": "not performed",
-    "androidOsMicrophoneDialog": "not exercised; controller and bridge tested with synthetic permission states"
+    "androidOsMicrophoneDialog": "not exercised; permission controller and bridge checked with synthetic permission states"
   }
 }
