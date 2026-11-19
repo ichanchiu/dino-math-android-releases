@@ -1,6 +1,6 @@
 {
-  "releaseDate": "2026-11-18",
-  "release": "https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-split-2026-11-18",
+  "releaseDate": "2026-11-19",
+  "release": "https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-courses-2026-11-19",
   "apps": [
     {
       "name": "DINO AI 數學遊樂園",
@@ -85,6 +85,111 @@
       ],
       "recordingsUploaded": false,
       "script": "simplified"
+    },
+    {
+      "name": "DINO AI 基礎幾何（繁體中文＋英文）",
+      "variant": "basic-geometry",
+      "locale": "zh-Hant",
+      "filename": "basic-geometry-1.0.0.apk",
+      "sha256": "4178d29d8ecc20848d05707a0634bf8935534ead0def67b0fb4811f1135a9462",
+      "package": "com.dinoailearning.basicgeometry",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "website": "https://basic-geometry.dinoailearning.com/",
+      "certificateSha256": "9083fbe4c7cb5d1c5585b2e7dbf5a9dc553beecf312908b30ae6e11440d4415e",
+      "bytes": 172841,
+      "minimumAndroid": "8.0",
+      "minimumApi": 26,
+      "targetApi": 36,
+      "internetRequired": true,
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/basic-geometry-1.0.0.apk",
+      "permissions": [
+        "android.permission.INTERNET"
+      ]
+    },
+    {
+      "name": "DINO AI 基础几何（簡體中文＋英文）",
+      "variant": "basic-geometry-cn",
+      "locale": "zh-Hans",
+      "filename": "basic-geometry-cn-1.0.0.apk",
+      "sha256": "469fe68c4949b6ac4a34efad2af0521f0688f300dd3951a94eeebfd7d2aaa55b",
+      "package": "com.dinoailearning.basicgeometry.cn",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "website": "https://basic-geometry-cn.dinoailearning.com/",
+      "certificateSha256": "bd15777c99788373102822a692c254b15ebfd30814af3bfb290cc921efe5dd14",
+      "bytes": 168745,
+      "minimumAndroid": "8.0",
+      "minimumApi": 26,
+      "targetApi": 36,
+      "internetRequired": true,
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/basic-geometry-cn-1.0.0.apk",
+      "permissions": [
+        "android.permission.INTERNET"
+      ]
+    },
+    {
+      "name": "DINO AI 四則運算表（繁體中文＋英文）",
+      "variant": "arithmetic-tables",
+      "locale": "zh-Hant",
+      "filename": "arithmetic-tables-1.0.0.apk",
+      "sha256": "a2a42be6d48c5bf507be694cf668d4aeeb0424ef62fd27fbd87f4400d7317c80",
+      "package": "com.dinoailearning.arithmetictables",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "website": "https://arithmetic-tables.dinoailearning.com/",
+      "certificateSha256": "66b0372bb00a3babbd8808129c193c7915ba6ac2958af722fc1802a39a223680",
+      "bytes": 152361,
+      "minimumAndroid": "8.0",
+      "minimumApi": 26,
+      "targetApi": 36,
+      "internetRequired": true,
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/arithmetic-tables-1.0.0.apk",
+      "permissions": [
+        "android.permission.INTERNET"
+      ]
+    },
+    {
+      "name": "DINO AI 四则运算表（簡體中文＋英文）",
+      "variant": "arithmetic-tables-cn",
+      "locale": "zh-Hans",
+      "filename": "arithmetic-tables-cn-1.0.0.apk",
+      "sha256": "bb30293d6470d5dcefce62fa42326e8d830369410290f826c6b957a33f3ba0e0",
+      "package": "com.dinoailearning.arithmetictables.cn",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "website": "https://arithmetic-tables-cn.dinoailearning.com/",
+      "certificateSha256": "f271276ce78b271e6a601354961b66ea83bb5c11b65aa43b95de7872e0e6a402",
+      "bytes": 152361,
+      "minimumAndroid": "8.0",
+      "minimumApi": 26,
+      "targetApi": 36,
+      "internetRequired": true,
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/arithmetic-tables-cn-1.0.0.apk",
+      "permissions": [
+        "android.permission.INTERNET"
+      ]
+    },
+    {
+      "name": "DINO AI 自然科學小學堂（繁體中文＋英文）",
+      "variant": "science",
+      "locale": "zh-Hant",
+      "filename": "science-1.0.0.apk",
+      "sha256": "864c67348a5b0cbe1f825b306957e9a66cf5df807cbc65e07b09ceefec72783c",
+      "package": "com.dinoailearning.science",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "website": "https://science.dinoailearning.com/",
+      "certificateSha256": "cbf1ef505713417ccfd6d328efd8929f3e38ca1dae81959411a350778b695175",
+      "bytes": 185129,
+      "minimumAndroid": "8.0",
+      "minimumApi": 26,
+      "targetApi": 36,
+      "internetRequired": true,
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/science-1.0.0.apk",
+      "permissions": [
+        "android.permission.INTERNET"
+      ]
     }
   ],
   "installTogether": true,
@@ -96,6 +201,12 @@
     "physicalDevice": "not performed",
     "realMemberGameplayOnAndroid": "not performed",
     "humanAudioListening": "not performed",
-    "androidOsMicrophoneDialog": "not exercised; permission controller and bridge checked with synthetic permission states"
+    "androidOsMicrophoneDialog": "not exercised; permission controller and bridge checked with synthetic permission states",
+    "courses20261119": {
+      "apkSignaturesAndAlignment": "verified",
+      "isolatedAndroid15Emulator": "installation and anonymous production login",
+      "physicalDevice": "not performed",
+      "realMemberGameplayOnAndroid": "not performed"
+    }
   }
 }

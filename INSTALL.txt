@@ -1,9 +1,14 @@
-DINO AI 獨立 App 安裝說明（2026-11-18）
+DINO AI 獨立 App 安裝說明（2026-11-19）
 
 DINO-AI-Math-Park-1.1.0.apk：DINO AI 數學遊樂園
 DINO-AI-New-Curriculum-Maths-1.0.0.apk：DINO AI 新課綱數學
 DINO-AI-Zhuyin-1.0.0.apk：迪諾玩注音
 DINO-AI-Pinyin-1.0.0.apk：迪诺玩拼音
+basic-geometry-1.0.0.apk：DINO AI 基礎幾何（繁體中文＋英文）
+basic-geometry-cn-1.0.0.apk：DINO AI 基础几何（簡體中文＋英文）
+arithmetic-tables-1.0.0.apk：DINO AI 四則運算表（繁體中文＋英文）
+arithmetic-tables-cn-1.0.0.apk：DINO AI 四则运算表（簡體中文＋英文）
+science-1.0.0.apk：DINO AI 自然科學小學堂（繁體中文＋英文）
 
 玩注音為繁體中文＋英文；玩拼音為简体中文＋英文。各自獨立安裝、登入及進入自己的教材，沒有共同選單。
 
@@ -11,7 +16,7 @@ DINO-AI-Pinyin-1.0.0.apk：迪诺玩拼音
 
 數學遊樂園與新課綱數學維持原版本與簽章，已安裝者可繼續使用。原注音拼音合併版已停止提供，兩個獨立版本須分別安裝並登入；可自行移除舊合併版。已確認的雲端紀錄沿用；舊 origin 本機待同步內容與偏好不會自動搬移。
 
-四個 App 各自登入，與 Chrome 分開。網站更新後完整關閉再開啟 App；原生 App 改版需安裝同簽章新版 APK。「待同步」尚未寫入雲端，請保持連線完成同步後再清除資料或移除 App。
+每個 App 各自登入，與 Chrome 分開。網站更新後完整關閉再開啟 App；原生 App 改版需安裝同簽章新版 APK。「待同步」尚未寫入雲端，請保持連線完成同步後再清除資料或移除 App。
 
 玩注音／玩拼音僅於點選錄音練習時詢問麥克風。聲音只在頁面本機處理與回放，不上傳；星星含自評或本機判定，不代表正式能力檢定。
 
@@ -22,3 +27,9 @@ https://mathpark.dinoailearning.com/
 https://newmath.dinoailearning.com/
 https://zhuyin.dinoailearning.com/
 https://pinyin.dinoailearning.com/
+
+https://basic-geometry.dinoailearning.com/
+https://basic-geometry-cn.dinoailearning.com/
+https://arithmetic-tables.dinoailearning.com/
+https://arithmetic-tables-cn.dinoailearning.com/
+https://science.dinoailearning.com/

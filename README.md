@@ -1,6 +1,6 @@
 # DINO AI 學習 App 下載
 
-數學遊樂園、新課綱數學、玩注音、玩拼音，共四個獨立 Android App，可同時安裝。
+各款 DINO AI 學習 App 可在 Android 裝置各自安裝。基礎幾何與四則運算表各有繁中英、簡中英兩個版本。
 
 | App | 版本 | APK 下載 | 網頁版 |
 |---|---|---|---|
@@ -8,8 +8,15 @@
 | DINO AI 新課綱數學 | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-New-Curriculum-Maths-1.0.0.apk) | [開啟網站](https://newmath.dinoailearning.com/) |
 | 迪諾玩注音 | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Zhuyin-1.0.0.apk) | [開啟網站](https://zhuyin.dinoailearning.com/) |
 | 迪诺玩拼音 | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Pinyin-1.0.0.apk) | [開啟網站](https://pinyin.dinoailearning.com/) |
+| DINO AI 基礎幾何（繁體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/basic-geometry-1.0.0.apk) | [開啟網站](https://basic-geometry.dinoailearning.com/) |
+| DINO AI 基础几何（簡體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/basic-geometry-cn-1.0.0.apk) | [開啟網站](https://basic-geometry-cn.dinoailearning.com/) |
+| DINO AI 四則運算表（繁體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/arithmetic-tables-1.0.0.apk) | [開啟網站](https://arithmetic-tables.dinoailearning.com/) |
+| DINO AI 四则运算表（簡體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/arithmetic-tables-cn-1.0.0.apk) | [開啟網站](https://arithmetic-tables-cn.dinoailearning.com/) |
+| DINO AI 自然科學小學堂（繁體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/science-1.0.0.apk) | [開啟網站](https://science.dinoailearning.com/) |
 
-[四個獨立 APK 下載包](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Learning-Apps-Split-2026-11-18.zip) · [發布頁與校驗](https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-split-2026-11-18)
+[本次五個新 APK 的發布與校驗](https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-courses-2026-11-19)
+
+[數學遊樂園、新課綱數學、玩注音及玩拼音的 APK 下載包](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Learning-Apps-Split-2026-11-18.zip) · [發布頁與校驗](https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-split-2026-11-18)
 
 ## 注音與拼音分開使用
 
@@ -26,22 +33,27 @@
 2. 開啟檔案，依 Android 提示允許該檔案來源安裝。
 3. 使用有課程資格的會員帳號登入；下載不會自動取得課程權限，帳號或權限問題請洽課程管理員。
 
-四個都是連線版，需要網路，沒有內附整套離線教材。各 App 的登入狀態與 Chrome 及其他 App 分開。教材與網站功能更新後，完整關閉 App 再開啟即可載入；原生 App 改版仍需安裝同簽章新版 APK。
+各 App 都需連線載入教材。各 App 的登入狀態與 Chrome 及其他 App 分開。教材與網站功能更新後，完整關閉 App 再開啟即可載入；原生 App 改版仍需安裝同簽章新版 APK。
 
 數學遊樂園 1.1.0、新課綱數學 1.0.0 的安裝檔及簽章維持原樣；已安裝者可繼續使用。
 
-「待同步」表示尚未確認寫入雲端，應保持連線完成同步。清除 App 資料或移除可能失去尚未同步的紀錄。各站紀錄區分開啟、書寫、答題、遊戲完成／中途離開及自評；開啟紀錄與星星不等於客觀能力評量。
+數學遊樂園、新課綱數學、玩注音與玩拼音的「待同步」表示尚未確認寫入雲端，應保持連線完成同步。清除 App 資料或移除可能失去尚未同步的紀錄。各站紀錄區分開啟、書寫、答題、遊戲完成／中途離開及自評；開啟紀錄與星星不等於客觀能力評量。
+
+基礎幾何與四則運算表的學習進度依本站帳號保存在同一裝置。
 
 ## 權限與驗證
 
-前兩個數學 App 只要求網路權限。玩注音、玩拼音另有麥克風權限，僅在點選錄音練習時詢問；一般教材不要求麥克風。聲音在本機處理／回放，不上傳，也不使用外部語音辨識；雲端只存操作與自評等數值紀錄。
+數學遊樂園、新課綱數學、基礎幾何、四則運算表與自然科學小學堂僅使用網路權限。玩注音、玩拼音另有麥克風權限，僅在點選錄音練習時詢問；一般教材不要求麥克風。聲音在本機處理／回放，不上傳，也不使用外部語音辨識；雲端只存操作與自評等數值紀錄。
 
 已檢查正式簽章、16 KiB zip alignment、SHA-256 與 Android 15 模擬器安裝、正式網站匿名入口及直橫向操作。實體平板、真實會員完整遊玩、實際系統麥克風授權視窗及真人收音／聆聽品質尚待驗收。這些 APK 為側載下載，未上架 Google Play。
 
-[SHA256SUMS.txt](SHA256SUMS.txt) 校驗公開附件；[app-versions.json](app-versions.json) 提供版本與套件資訊。下載包內另有 APK-SHA256SUMS.txt 校驗四個 APK。
+[SHA256SUMS.txt](SHA256SUMS.txt) 校驗 2026-11-18 的公開附件；[app-versions.json](app-versions.json) 提供版本與套件資訊。下載包內另有 APK-SHA256SUMS.txt 校驗四個 APK。
 
 ## 教材來源
 
 - [數學遊樂園](https://github.com/claudecat30-sys/newmathpark)
 - [新課綱數學](https://github.com/claudecat30-sys/newmath)
 - [玩注音、玩拼音原始專案](https://github.com/claudecat30-sys/Dino-ZhuyinPinyin)
+- [基礎幾何原始專案](https://github.com/claudecat30-sys/basic-geometry)
+- [四則運算表原始專案](https://github.com/claudecat30-sys/arithmetic-tables)
+- [自然科學小學堂原始專案](https://github.com/claudecat30-sys/natural-science)
