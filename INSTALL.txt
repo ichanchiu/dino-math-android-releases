@@ -1,35 +1,21 @@
-DINO AI 獨立 App 安裝說明（2026-11-19）
+DINO AI 離線學習 App
 
-DINO-AI-Math-Park-1.1.0.apk：DINO AI 數學遊樂園
-DINO-AI-New-Curriculum-Maths-1.0.0.apk：DINO AI 新課綱數學
-DINO-AI-Zhuyin-1.0.0.apk：迪諾玩注音
-DINO-AI-Pinyin-1.0.0.apk：迪诺玩拼音
-basic-geometry-1.0.0.apk：DINO AI 基礎幾何（繁體中文＋英文）
-basic-geometry-cn-1.0.0.apk：DINO AI 基础几何（簡體中文＋英文）
-arithmetic-tables-1.0.0.apk：DINO AI 四則運算表（繁體中文＋英文）
-arithmetic-tables-cn-1.0.0.apk：DINO AI 四则运算表（簡體中文＋英文）
-science-1.0.0.apk：DINO AI 自然科學小學堂（繁體中文＋英文）
+mathpark-offline-1.0.0.apk　數學遊樂園
+newmath-offline-1.0.0.apk　新課綱數學
+zhuyin-offline-1.0.0.apk　迪諾玩注音（繁中＋英文）
+pinyin-offline-1.0.0.apk　迪诺玩拼音（簡中＋英文）
+basic-geometry-offline-1.0.0.apk　基礎幾何（繁中＋英文）
+basic-geometry-cn-offline-1.0.0.apk　基础几何（簡中＋英文）
+arithmetic-tables-offline-1.0.0.apk　四則運算表（繁中＋英文）
+arithmetic-tables-cn-offline-1.0.0.apk　四则运算表（簡中＋英文）
+science-offline-1.0.0.apk　自然科學小學堂（繁中＋英文）
+## 登入與學習紀錄
 
-玩注音為繁體中文＋英文；玩拼音為简体中文＋英文。各自獨立安裝、登入及進入自己的教材，沒有共同選單。
+- 首次安裝後連網登入，接著可以在飛航模式開課、朗讀、作答和玩遊戲。
+- 30 天到期時請重新連網登入。續期後可繼續使用裝置上的教材與同一會員的學習紀錄。
+- 紀錄依會員帳號留在使用中的裝置。移除 App 或清除 App 資料時，系統會移除該 App 的本機紀錄。
+- 妥善保留裝置儲存空間。數學遊樂園、新課綱數學、自然科學小學堂的 APK 較大；請讓下載與安裝完成，再開啟 App。
 
-需 Android 8.0 以上、網路及有課程存取資格的會員帳號。開啟下載的 APK，依系統提示允許該檔案來源安裝。下載本身不會自動取得課程資格。
+## 音檔與更新
 
-數學遊樂園與新課綱數學維持原版本與簽章，已安裝者可繼續使用。原注音拼音合併版已停止提供，兩個獨立版本須分別安裝並登入；可自行移除舊合併版。已確認的雲端紀錄沿用；舊 origin 本機待同步內容與偏好不會自動搬移。
-
-每個 App 各自登入，與 Chrome 分開。網站更新後完整關閉再開啟 App；原生 App 改版需安裝同簽章新版 APK。「待同步」尚未寫入雲端，請保持連線完成同步後再清除資料或移除 App。
-
-玩注音／玩拼音僅於點選錄音練習時詢問麥克風。聲音只在頁面本機處理與回放，不上傳；星星含自評或本機判定，不代表正式能力檢定。
-
-簽章、檔案校驗及模擬器正式匿名入口已檢查。實機、真人會員完整操作與實際系統錄音授權／收音品質尚待驗收。這些 APK 未上架 Google Play。
-
-正式網站
-https://mathpark.dinoailearning.com/
-https://newmath.dinoailearning.com/
-https://zhuyin.dinoailearning.com/
-https://pinyin.dinoailearning.com/
-
-https://basic-geometry.dinoailearning.com/
-https://basic-geometry-cn.dinoailearning.com/
-https://arithmetic-tables.dinoailearning.com/
-https://arithmetic-tables-cn.dinoailearning.com/
-https://science.dinoailearning.com/
+自然科學離線版使用較小的音訊編碼，原課程的中英文朗讀均包含在 APK 中。離線版教材更新時，請安裝新版 APK。

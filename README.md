@@ -1,59 +1,28 @@
-# DINO AI 學習 App 下載
+# DINO AI 離線學習 App
 
-各款 DINO AI 學習 App 可在 Android 裝置各自安裝。基礎幾何與四則運算表各有繁中英、簡中英兩個版本。
+九款 App 各自安裝，教材和音檔已隨 APK 提供。需要 Android 8.0 以上。下載後，首次用有課程資格的 DINO AI 會員帳號連網登入，即可離線使用 30 天。
 
-| App | 版本 | APK 下載 | 網頁版 |
-|---|---|---|---|
-| DINO AI 數學遊樂園 | 1.1.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Math-Park-1.1.0.apk) | [開啟網站](https://mathpark.dinoailearning.com/) |
-| DINO AI 新課綱數學 | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-New-Curriculum-Maths-1.0.0.apk) | [開啟網站](https://newmath.dinoailearning.com/) |
-| 迪諾玩注音 | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Zhuyin-1.0.0.apk) | [開啟網站](https://zhuyin.dinoailearning.com/) |
-| 迪诺玩拼音 | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Pinyin-1.0.0.apk) | [開啟網站](https://pinyin.dinoailearning.com/) |
-| DINO AI 基礎幾何（繁體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/basic-geometry-1.0.0.apk) | [開啟網站](https://basic-geometry.dinoailearning.com/) |
-| DINO AI 基础几何（簡體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/basic-geometry-cn-1.0.0.apk) | [開啟網站](https://basic-geometry-cn.dinoailearning.com/) |
-| DINO AI 四則運算表（繁體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/arithmetic-tables-1.0.0.apk) | [開啟網站](https://arithmetic-tables.dinoailearning.com/) |
-| DINO AI 四则运算表（簡體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/arithmetic-tables-cn-1.0.0.apk) | [開啟網站](https://arithmetic-tables-cn.dinoailearning.com/) |
-| DINO AI 自然科學小學堂（繁體中文＋英文） | 1.0.0 | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-courses-2026-11-19/science-1.0.0.apk) | [開啟網站](https://science.dinoailearning.com/) |
+| App | 安裝檔 | 下載 |
+|---|---:|---|
+| 數學遊樂園 | 1,639 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/mathpark-offline-1.0.0.apk) |
+| 新課綱數學 | 2,084 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/newmath-offline-1.0.0.apk) |
+| 迪諾玩注音（繁中＋英文） | 54 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/zhuyin-offline-1.0.0.apk) |
+| 迪诺玩拼音（簡中＋英文） | 54 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/pinyin-offline-1.0.0.apk) |
+| 基礎幾何（繁中＋英文） | 134 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/basic-geometry-offline-1.0.0.apk) |
+| 基础几何（簡中＋英文） | 131 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/basic-geometry-cn-offline-1.0.0.apk) |
+| 四則運算表（繁中＋英文） | 66 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/arithmetic-tables-offline-1.0.0.apk) |
+| 四则运算表（簡中＋英文） | 65 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/arithmetic-tables-cn-offline-1.0.0.apk) |
+| 自然科學小學堂（繁中＋英文） | 1,456 MB | [下載 APK](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-offline-2026-11-19/science-offline-1.0.0.apk) |
 
-[本次五個新 APK 的發布與校驗](https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-courses-2026-11-19)
+## 登入與學習紀錄
 
-[數學遊樂園、新課綱數學、玩注音及玩拼音的 APK 下載包](https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-split-2026-11-18/DINO-AI-Learning-Apps-Split-2026-11-18.zip) · [發布頁與校驗](https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-split-2026-11-18)
+- 首次安裝後連網登入，接著可以在飛航模式開課、朗讀、作答和玩遊戲。
+- 30 天到期時請重新連網登入。續期後可繼續使用裝置上的教材與同一會員的學習紀錄。
+- 紀錄依會員帳號留在使用中的裝置。移除 App 或清除 App 資料時，系統會移除該 App 的本機紀錄。
+- 妥善保留裝置儲存空間。數學遊樂園、新課綱數學、自然科學小學堂的 APK 較大；請讓下載與安裝完成，再開啟 App。
 
-## 注音與拼音分開使用
+## 音檔與更新
 
-- **迪諾玩注音**：繁體中文＋英文，自己的網站、登入入口、圖示及 APK。
-- **迪诺玩拼音**：简体中文＋英文，自己的網站、登入入口、圖示及 APK。
+自然科學離線版使用較小的音訊編碼，原課程的中英文朗讀均包含在 APK 中。離線版教材更新時，請安裝新版 APK。
 
-各自直接進入自己的教材，保留原作者中文／中英／英文模式；沒有共同選單或互相切換教材的入口。練習紀錄按帳號與教材版本分開；先前已確認同步到雲端的同帳號紀錄沿用。
-
-原合併版已停止提供，新安裝請選擇上列兩個獨立 APK。它們使用不同的 App 身分，需另外安裝並各自登入。舊合併版可由使用者自行移除；新 App 不會自動搬移舊 App 的本機待同步內容或偏好。
-
-## 安裝、登入與更新
-
-1. 使用 Android 8.0 以上的手機或平板，下載需要的 APK。
-2. 開啟檔案，依 Android 提示允許該檔案來源安裝。
-3. 使用有課程資格的會員帳號登入；下載不會自動取得課程權限，帳號或權限問題請洽課程管理員。
-
-各 App 都需連線載入教材。各 App 的登入狀態與 Chrome 及其他 App 分開。教材與網站功能更新後，完整關閉 App 再開啟即可載入；原生 App 改版仍需安裝同簽章新版 APK。
-
-數學遊樂園 1.1.0、新課綱數學 1.0.0 的安裝檔及簽章維持原樣；已安裝者可繼續使用。
-
-數學遊樂園、新課綱數學、玩注音與玩拼音的「待同步」表示尚未確認寫入雲端，應保持連線完成同步。清除 App 資料或移除可能失去尚未同步的紀錄。各站紀錄區分開啟、書寫、答題、遊戲完成／中途離開及自評；開啟紀錄與星星不等於客觀能力評量。
-
-基礎幾何與四則運算表的學習進度依本站帳號保存在同一裝置。
-
-## 權限與驗證
-
-數學遊樂園、新課綱數學、基礎幾何、四則運算表與自然科學小學堂僅使用網路權限。玩注音、玩拼音另有麥克風權限，僅在點選錄音練習時詢問；一般教材不要求麥克風。聲音在本機處理／回放，不上傳，也不使用外部語音辨識；雲端只存操作與自評等數值紀錄。
-
-已檢查正式簽章、16 KiB zip alignment、SHA-256 與 Android 15 模擬器安裝、正式網站匿名入口及直橫向操作。實體平板、真實會員完整遊玩、實際系統麥克風授權視窗及真人收音／聆聽品質尚待驗收。這些 APK 為側載下載，未上架 Google Play。
-
-[SHA256SUMS.txt](SHA256SUMS.txt) 校驗 2026-11-18 的公開附件；[app-versions.json](app-versions.json) 提供版本與套件資訊。下載包內另有 APK-SHA256SUMS.txt 校驗四個 APK。
-
-## 教材來源
-
-- [數學遊樂園](https://github.com/claudecat30-sys/newmathpark)
-- [新課綱數學](https://github.com/claudecat30-sys/newmath)
-- [玩注音、玩拼音原始專案](https://github.com/claudecat30-sys/Dino-ZhuyinPinyin)
-- [基礎幾何原始專案](https://github.com/claudecat30-sys/basic-geometry)
-- [四則運算表原始專案](https://github.com/claudecat30-sys/arithmetic-tables)
-- [自然科學小學堂原始專案](https://github.com/claudecat30-sys/natural-science)
+[離線版發行頁](https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-offline-2026-11-19) · [版本資訊](app-versions.json) · [檔案校驗](SHA256SUMS.txt)

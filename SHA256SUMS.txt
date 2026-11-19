@@ -1,8 +1,9 @@
-9358225c32141becb1a9eef98a9511cd9f5fab40e4fff2565f076022acd687ec  DINO-AI-Learning-Apps-Split-2026-11-18.zip
-53a46163b8d6ca2760db10f737af9f9a0e3523adade6b4f3c89d637e5c4daf55  DINO-AI-Math-Park-1.1.0.apk
-325bac2249ad3bc17862e9be6c71a30d2a6ec3b079b376027a9e133cebf96a91  DINO-AI-New-Curriculum-Maths-1.0.0.apk
-1d280764ea8dadd5b8c44b81a6bfdf065eabb9e982c7e1e80a3f5bf19ef58e67  DINO-AI-Pinyin-1.0.0.apk
-a142f562d5e2326030c48a96e08e7c1254a85ba3dc447dd87bf65a663521673c  DINO-AI-Zhuyin-1.0.0.apk
-db23ffc300dd2af7e2740f431ae3ddf6d1b7032a16e3170c13e999a4d2514639  INSTALL.txt
-c90acd5282f2a0bee10b7fb5a148171e8b1f1b762a54492927486939512d1475  README.md
-192d5353216776adc9bf1b0e995e404108a1a70d874dddb624b18793d3ec70f9  app-versions.json
+579d9ac15a030eec69b0c9f81a2971f6c03037450d2aaf837fc69287ba2624c3  mathpark-offline-1.0.0.apk
+b94598ac102efaa9f54bf4b6297550e31c92992159e6e14f5e66ab251a9cd7b5  newmath-offline-1.0.0.apk
+987e7a58e9ec5e7d9e4f18143e5dcefcb6c04eb6a1894e44926b71e0c6fa67af  zhuyin-offline-1.0.0.apk
+cbb4570a051ef432b85ab69179add2b2509307ee616d8f19817fc89aad1532d5  pinyin-offline-1.0.0.apk
+bcfbb7b04e143836efe0fd1ab7b4bba2034defd071c0418e540525fabb6cf46a  basic-geometry-offline-1.0.0.apk
+ae616a368305ac69a4b9cc9f0f7c88c19d5fc258108642af50110acd368cf215  basic-geometry-cn-offline-1.0.0.apk
+3690aa5358d8b285a52df82e07d1ac61319a9cf756cb6c8215c3b6c1510ea57f  arithmetic-tables-offline-1.0.0.apk
+09ccc18ac8e878ab13845f1c327fae6c8955b337e50844adde8983ec87262855  arithmetic-tables-cn-offline-1.0.0.apk
+c5f0786c7f636822d71c12028b69b548f736f117d00e557898c42d8a3f33df1a  science-offline-1.0.0.apk
