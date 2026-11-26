@@ -1,14 +1,14 @@
-DINO AI 離線學習 App
+DINO AI 課程 APK
 
-mathpark-offline-1.0.1.apk　數學遊樂園
-newmath-offline-1.0.1.apk　新課綱數學
-zhuyin-offline-1.0.1.apk　迪諾玩注音（繁中＋英文）
-pinyin-offline-1.0.1.apk　迪诺玩拼音（簡中＋英文）
-basic-geometry-offline-1.0.1.apk　基礎幾何（繁中＋英文）
-basic-geometry-cn-offline-1.0.1.apk　基础几何（簡中＋英文）
-arithmetic-tables-offline-1.0.1.apk　四則運算表（繁中＋英文）
-arithmetic-tables-cn-offline-1.0.1.apk　四则运算表（簡中＋英文）
-science-offline-1.0.1.apk　自然科學小學堂（繁中＋英文）
+mathpark.apk　數學遊樂園
+newmath.apk　新課綱數學
+zhuyin.apk　迪諾玩注音（繁中＋英文）
+pinyin.apk　迪诺玩拼音（簡中＋英文）
+basic-geometry.apk　基礎幾何（繁中＋英文）
+basic-geometry-cn.apk　基础几何（簡中＋英文）
+arithmetic-tables.apk　四則運算表（繁中＋英文）
+arithmetic-tables-cn.apk　四则运算表（簡中＋英文）
+science.apk　自然科學小學堂（繁中＋英文）
 ## 登入與學習紀錄
 
 - 已安裝舊版的使用者可直接覆蓋安裝。若裝置已有 30 天授權，請用相同會員帳號連網重新登入一次，即可換成 180 天授權。原本的本機學習紀錄可繼續使用。
