@@ -1,6 +1,6 @@
 {
   "releaseDate": "2026-11-26",
-  "release": "https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-apps-2026-11-26",
+  "release": "https://github.com/ichanchiu/dino-math-android-releases/releases/tag/android-apps-2026-11-26-r2",
   "mode": "offline",
   "apps": [
     {
@@ -18,7 +18,7 @@
       "permissions": [
         "android.permission.INTERNET"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/mathpark.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/mathpark.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://mathpark.dinoailearning.com/"
@@ -38,7 +38,7 @@
       "permissions": [
         "android.permission.INTERNET"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/newmath.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/newmath.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://newmath.dinoailearning.com/"
@@ -48,10 +48,10 @@
       "slug": "zhuyin",
       "filename": "zhuyin.apk",
       "package": "com.dinoailearning.zhuyin.offline",
-      "versionName": "1.0.6",
-      "versionCode": 7,
+      "versionName": "1.0.7",
+      "versionCode": 8,
       "bytes": 139362791,
-      "sha256": "07d9519910bb5f6aec125c2a8557190a53399c513fcb92cfb64ba43a170b1f46",
+      "sha256": "80b7eb0e7e4fe7b5e5ed715348bfe7dab8567a9ddf3888557b34ff6b09f1ecd6",
       "certificateSha256": "4bb425c7535c695255b1e9100733ac894065f6841d6b8a2f4fc70e7c47aa7c71",
       "minimumApi": 26,
       "targetApi": 36,
@@ -59,7 +59,7 @@
         "android.permission.INTERNET",
         "android.permission.RECORD_AUDIO"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/zhuyin.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/zhuyin.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://zhuyin.dinoailearning.com/"
@@ -80,7 +80,7 @@
         "android.permission.INTERNET",
         "android.permission.RECORD_AUDIO"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/pinyin.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/pinyin.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://pinyin.dinoailearning.com/"
@@ -100,7 +100,7 @@
       "permissions": [
         "android.permission.INTERNET"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/basic-geometry.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/basic-geometry.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://basic-geometry.dinoailearning.com/"
@@ -120,7 +120,7 @@
       "permissions": [
         "android.permission.INTERNET"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/basic-geometry-cn.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/basic-geometry-cn.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://basic-geometry-cn.dinoailearning.com/"
@@ -140,7 +140,7 @@
       "permissions": [
         "android.permission.INTERNET"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/arithmetic-tables.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/arithmetic-tables.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://arithmetic-tables.dinoailearning.com/"
@@ -160,7 +160,7 @@
       "permissions": [
         "android.permission.INTERNET"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/arithmetic-tables-cn.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/arithmetic-tables-cn.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://arithmetic-tables-cn.dinoailearning.com/"
@@ -180,7 +180,7 @@
       "permissions": [
         "android.permission.INTERNET"
       ],
-      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26/science.apk",
+      "downloadUrl": "https://github.com/ichanchiu/dino-math-android-releases/releases/download/android-apps-2026-11-26-r2/science.apk",
       "courseContentBundled": true,
       "additionalDownloadsRequired": false,
       "website": "https://science.dinoailearning.com/"
